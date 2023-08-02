@@ -5,4 +5,4 @@ Research Area: Quadrotor Control, Learning based Control, Sliding Mode Control, 
 
 
 ![window2](https://github.com/subyogi/scyogi.github.io/assets/44064428/96c02043-acac-4f26-ac3c-acc4ae4cb77b)
-https://youtu.be/_7ROiVev46E
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/_7ROiVev46E)
